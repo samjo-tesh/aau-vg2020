@@ -12,7 +12,7 @@
                             "fieldOfStudy": "Field of Study 1",
                             "name": "Muktar Jemal Kedir",
                             "thesisTitle": "Thesis Title - Computer Science 1",
-                            "image": "../../assets/images/phds/muktar_jemal.jpg",
+                            "image": "assets/images/phds/muktar_jemal.jpg",
                             "advisorName": "Advisor Name 1"
                         },
                         {
@@ -21,7 +21,7 @@
                             "fieldOfStudy": "Field of Study 2",
                             "name": "Getnet Abie Mekonnen",
                             "thesisTitle": "Thesis Title - Computer Science 2",
-                            "image": "../../assets/images/phds/getnet_abie.jpg",
+                            "image": "assets/images/phds/getnet_abie.jpg",
                             "advisorName": "Advisor Name 2"
                         }
                     ]
@@ -35,7 +35,7 @@
                             "fieldOfStudy": "Field of Study 3",
                             "name": "Abiy Yimer",
                             "thesisTitle": "Thesis Title - Earth Science 1",
-                            "image": "../../assets/images/phds/abiy_yimer.jpg",
+                            "image": "assets/images/phds/abiy_yimer.jpg",
                             "advisorName": "Advisor Name 3"
                         },
                         {
@@ -44,7 +44,7 @@
                             "fieldOfStudy": "Field of Study 4",
                             "name": "Kebede Abebe",
                             "thesisTitle": "Thesis Title - Earth Science 2",
-                            "image": "../../assets/images/ghat_3.png",
+                            "image": "assets/images/ghat_3.png",
                             "advisorName": "Advisor Name 4"
                         }
                     ]
@@ -70,12 +70,12 @@
                         {
                             "id": 1,
                             "name": "Muktar Jemal Kedir",
-                            "image": "../../assets/images/phds/muktar_jemal.jpg"
+                            "image": "assets/images/phds/muktar_jemal.jpg"
                         },
                         {
                             "id": 2,
                             "name": "Getnet Abie Mekonnen",
-                            "image": "../../assets/images/phds/getnet_abie.jpg"
+                            "image": "assets/images/phds/getnet_abie.jpg"
                         }
                     ]
                 }
