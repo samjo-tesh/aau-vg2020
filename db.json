@@ -131,18 +131,6 @@
                             "image": "assets/images/msc/CHLJC/Extension/Nardos_Tesfaye_Talle.jpg"
                         }
                     ]
-                },
-                {
-                    "departmentName": "Master of Arts in Documentary Linguistics and Culture",
-                    "program": "Extension",
-                    "students": [
-                        {
-                            "id": 1,
-                            "name": "Seblewongel Assefa Bekele",
-                            "gender": "F",
-                            "image": "assets/images/msc/CHLJC/Extension/Seblewongel_Assefa_Bekele.jpg"
-                        }
-                    ]                
                 }
             ]            
         },
@@ -193,36 +181,18 @@
                 {
                     "departmentName": "Master of Arts in Curriculum and Instruction",
                     "program": "Regular",
-                    "students": [
+                    "students": [                        
                         {
                             "id": 1,
-                            "name": "Abiti Ensebo Harefo",
-                            "gender": "M",
-                            "image": "assets/images/msc/CEBS/Regular/Abiti_Ensebo_Harefo.jpg"
-                        },
-                        {
-                            "id": 2,
-                            "name": "Berhanu Kelbiso Mekebo",
-                            "gender": "M",
-                            "image": "assets/images/msc/CEBS/Regular/Berhanu_Kelbiso_Mekebo.jpg"
-                        },
-                        {
-                            "id": 3,
                             "name": "Gebreanenia Gebremariam Tekelehaimanot",
                             "gender": "M",
                             "image": "assets/images/msc/CEBS/Regular/Gebreanenia_Gebremariam_Tekelehaimanot.jpg"
                         },
                         {
-                            "id": 4,
+                            "id": 2,
                             "name": "Ojulu Gora Agwa",
                             "gender": "M",
                             "image": "assets/images/msc/CEBS/Regular/Ojulu_Gora_Agwa.jpg"
-                        },
-                        {
-                            "id": 5,
-                            "name": "Samuel Mitiku Kassaye",
-                            "gender": "M",
-                            "image": "assets/images/msc/CEBS/Regular/Samuel_Mitiku_Kassaye.jpg"
                         }
                     ]
                 }
@@ -252,18 +222,6 @@
                             "name": "Tiruye Mesfin Mengistu",
                             "gender": "F",
                             "image": "assets/images/msc/EIABC/Regular/Tiruye_Mesfin_Mengistu.jpg"
-                        },
-                        {
-                            "id": 4,
-                            "name": "Yohannes Afework Wondeafrash",
-                            "gender": "M",
-                            "image": "assets/images/msc/EIABC/Regular/Yohannes_Afework_Wondeafrash.jpg"
-                        },
-                        {
-                            "id": 5,
-                            "name": "Yohannes Kassa Hailemariyam",
-                            "gender": "M",
-                            "image": "assets/images/msc/EIABC/Regular/Yohannes_Kassa_Hailemariyam.jpg"
                         }
                     ]
                 }
